@@ -1,0 +1,68 @@
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Nhom1_DTDM.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Nhom1_DTDM.pdb
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Nhom1_DTDM.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Antlr3.Runtime.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.Core.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\EntityFramework.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\System.Web.Optimization.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\System.Web.Providers.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\WebGrease.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\EntityFramework.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.Core.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.vbprojResolveAssemblyReference.cache
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.Resources.resources
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.vbproj.GenerateResource.Cache
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.dll
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.xml
+C:\Users\IT\Documents\Visual Studio 2012\Projects\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.pdb
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Nhom1_DTDM.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Nhom1_DTDM.pdb
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Nhom1_DTDM.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Antlr3.Runtime.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\AspNet.ScriptManager.jQuery.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.AspNet.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.Core.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OAuth.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OpenId.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\EntityFramework.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\Microsoft.Web.Infrastructure.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\System.Web.Optimization.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\System.Web.Providers.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\WebGrease.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\EntityFramework.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.Core.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OAuth.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OpenId.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\bin\DotNetOpenAuth.AspNet.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.vbprojResolveAssemblyReference.cache
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.Resources.resources
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.vbproj.GenerateResource.Cache
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.dll
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.xml
+E:\Nhom 1\Nhom1_DTDM\Nhom1_DTDM\obj\Debug\Nhom1_DTDM.pdb
